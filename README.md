@@ -6,7 +6,6 @@ Liczby powinny być wypisane w linii po przecinku.
 
 ZADANIE 2
 Napisz program, który będzie obliczał silnię podanej liczby.
-
 Wynik powinien być wypisany w jednej linii po przecinku.
 
 ZADANIE 3
